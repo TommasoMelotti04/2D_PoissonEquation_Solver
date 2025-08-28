@@ -11,7 +11,8 @@ This project implements:
 - Analysis of convergence, computational cost, and efficiency.
 
 ## Documentation
-The full project description and assignment can be found here:  
-📄 [Project report / assignment (PDF)](docs/Project_2_Poisson.pdf)
+The full project description can be found here:  
+📄 [Project report / assignment (PDF)](Project_2_Poisson.pdf)
+
 
 
